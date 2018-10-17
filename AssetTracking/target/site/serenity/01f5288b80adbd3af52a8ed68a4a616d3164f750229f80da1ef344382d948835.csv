@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Asset tracking CRUD test","This test will create a Data to Asset Tracking","SUCCESS","2018-10-17T18:33:15.544+01:00[Europe/London]","0.0","3.37"
+"Asset tracking CRUD test","Verify if Data was added to the application","SUCCESS","2018-10-17T18:33:19.204+01:00[Europe/London]","0.0","0.67"
+"Asset tracking CRUD test","Update information from pulse end-point","SUCCESS","2018-10-17T18:33:19.875+01:00[Europe/London]","0.0","0.52"
+"Asset tracking CRUD test","Delete information from pulse end-point and verify its Deleted!","SUCCESS","2018-10-17T18:33:20.4+01:00[Europe/London]","0.0","0.24"

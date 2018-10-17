@@ -1,0 +1,6 @@
+com/assettracking/junit/assettrackingIdInfo/SerenityIdInfo.class
+com/assettracking/cucumber/serenity/AssetTrackingSerenitySteps.class
+com/assettracking/utils/ReuseableSpecifications.class
+com/assettracking/junit/assettrackingInfo/AssetTrackingCRUDTest.class
+com/assettracking/testbase/TestBase.class
+com/assettracking/utils/TestUtils.class
